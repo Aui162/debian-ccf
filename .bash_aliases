@@ -1,0 +1,8 @@
+alias ll='ls -al'
+alias up='sudo apt update && sudo apt upgrade'
+alias cl='clear'
+alias ..='cd ..'
+alias open='dolphin .'
+alias ?='journalctl --priority 4 --since today'
+alias inst='sudo apt install'
+alias starthome='sudo etherwake -i #YourNetworkCard #MacAddressWOL'
